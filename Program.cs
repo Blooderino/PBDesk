@@ -9,7 +9,7 @@ namespace PBDesk
     static class Program
     {
         // Вы можете получить свой уникальный ключ разработчика здесь: https://pastebin.com/doc_api#1
-        private const String DEV_KEY = "f6f0344c4c0452f5191192360484163f";
+        private const String DEV_KEY = "";
 
         /// <summary>
         /// Главная точка входа для приложения.
