@@ -1,4 +1,4 @@
-# pbdesk
+# PBDesk
 Educational project (PSU, ITS-2018), http-requests to the https://pastebin.com resource.
 
 Visit https://pastebin.com/doc_api for API information.
